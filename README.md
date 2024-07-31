@@ -1,5 +1,6 @@
 # FixingDivs.jl
-investigate the errors in the implementation of `fld, div, cld` and their solution
+## investigating errors in the implementation of `fld, div, cld` and their solution
+#### Jeffrey Sarnoff 2024
 
 #### relevant issue
 - [Incorrect results from floating-point division (fld, cld, div)](https://github.com/JuliaLang/julia/issues/49450)
